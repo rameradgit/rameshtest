@@ -1,6 +1,7 @@
 <h1> Puru Learning</h1>
 <h1> This is branch code </h1>
 <<<<<<< HEAD
+<h1> Ganesh change <h1>
 <h1> Puru Automatic CI/CD </h1>
 <h1> Git Testing </h1>
 =======
