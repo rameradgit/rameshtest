@@ -1,7 +1,11 @@
 <h1> Puru Learning</h1>
 <h1> This is branch code </h1>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h1> Ganesh change <h1>
+=======
+<h1> Senthil Change </h1>
+>>>>>>> 3b6e464a34c4e9995e1907bfbc285e6a85666c63
 <h1> Puru Automatic CI/CD </h1>
 <h1> Git Testing </h1>
 =======
