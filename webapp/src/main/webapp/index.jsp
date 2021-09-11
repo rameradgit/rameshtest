@@ -6,8 +6,12 @@
 <<<<<<< Updated upstream
   <h1> Ramesh Change </h1>
 =======
+<<<<<<< HEAD
 <h1> Vinoth change <h1>
 <h1> Puru chane </h1>
+=======
+
+>>>>>>> 0637d254c969a4022b3cdf57626ec68509fd91bf
 >>>>>>> Stashed changes
 =======
 <h1> Senthil Change </h1>
